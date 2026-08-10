@@ -1,0 +1,268 @@
+SKU,item_name,dept,list_price_usd,supplier_cost,in_stock_units
+90,Group Furniture,Home & Kitchen,220.234977,99.04,393
+242,Huge Personal Care,Beauty & Health,166.7208233,79.41,281
+230,Fight Supplement,Beauty & Health,853.2213475,362.81,261
+213,Star Supplement,Beauty & Health,113.9977771,82.05,359
+245,Throughout Personal Care,Beauty & Health,11782.86461,104.23,354
+125,Increase Women,Apparel,597.0400166,343.96,276
+295,Among Media,Books & Media,144.6639472,92.57,365
+118,During Men,Apparel,639.8421866,399.46,82
+103,Carry Women,Apparel,479.6784875,260.68,166
+298,Wait Media,Books & Media,238.5887046,153.1,281
+68,Bar Appliance,Home & Kitchen,139.012892,69.85,229
+287,Total Fiction,Books & Media,752.1836547,370.71,336
+111,Situation Men,Apparel,227.5777432,142.94,311
+254,Them Children,Books & Media,294.0105313,179.03,261
+14,Find Headphone,Electronics,90.07089876,61.01,12
+201,When Supplement,Beauty & Health,589.8946433,386.16,52
+88,Voice Decor,Home & Kitchen,281.3733387,206.76,308
+33,Forward Accessorie,Electronics,216.2887005,78.93,298
+278,Page Fiction,Books & Media,402.7224978,276.82,176
+218,Month Supplement,Beauty & Health,128.2295219,50.54,455
+216,Effort Supplement,Beauty & Health,513.4723992,345.22,11
+185,Avoid Camping,Sports & Outdoors,588.7853424,268.37,199
+86,Less Decor,Home & Kitchen,442.4897787,290.11,263
+39,Yeah Laptop,Electronics,415.5124779,256.52,428
+72,Difficult Cookware,Home & Kitchen,295.7757315,157.38,142
+151,Say Fitnes,Sports & Outdoors,632.8354401,246.9,383
+155,Away Camping,Sports & Outdoors,630.5594499,258.46,218
+202,Thank Skincare,Beauty & Health,528.8838586,201.68,75
+300,Those Non-Fiction,Books & Media,133.2625662,87.08,0
+12,Get Smartphone,Electronics,163.4162311,77.9,238
+51,Former Cookware,Home & Kitchen,887.9242481,370.52,332
+97,Black Appliance,Home & Kitchen,648.7542798,301.4,465
+38,Say Camera,Electronics,374.7309455,233.95,94
+160,Where Camping,Sports & Outdoors,147.4159253,98.55,356
+98,Southern Appliance,Home & Kitchen,72.21614071,53.12,57
+21,Right Camera,Electronics,611.6941328,247.11,216
+101,Cut Women,Apparel,484.7227078,300.87,411
+36,Work Smartphone,Electronics,763.1303291,321.49,393
+266,Feeling Non-Fiction,Books & Media,115.1127186,46.6,198
+173,Soon Fitnes,Sports & Outdoors,600.8140569,354.03,495
+273,Ask Children,Books & Media,553.4804706,289.19,85
+279,Scientist Non-Fiction,Books & Media,236.7183543,166.06,209
+63,Song Appliance,Home & Kitchen,432.9974634,178.68,130
+10,After Laptop,Electronics,306.0290641,235.47,474
+116,Ahead Men,Apparel,852.3685931,353.76,314
+270,Environmental Non-Fiction,Books & Media,34712.3703,252.13,16
+59,Action Furniture,Home & Kitchen,292.1959487,185.42,69
+191,Yeah Camping,Sports & Outdoors,476.2062035,215.03,347
+206,Office Skincare,Beauty & Health,617.8947184,396.87,394
+162,Do Team Sport,Sports & Outdoors,124.84168,53.07,307
+85,Event Furniture,Home & Kitchen,528.7643611,214.98,39
+229,Thus Skincare,Beauty & Health,691.5817409,325.2,383
+248,Generation Haircare,Beauty & Health,77.34200074,55.58,137
+142,Card Footwear,Apparel,741.6584388,352.01,126
+19,Improve Smartphone,Electronics,750.2348585,269.65,23
+267,Born Fiction,Books & Media,251.739429,110.91,371
+281,Citizen Non-Fiction,Books & Media,152.7405162,90.63,59
+123,Anything Footwear,Apparel,859.7605111,320.39,384
+62,Key Furniture,Home & Kitchen,251.02143,95.18,411
+82,Rich Furniture,Home & Kitchen,246.7716425,117.43,97
+73,Travel Appliance,Home & Kitchen,349.9085247,176.21,485
+232,Partner Personal Care,Beauty & Health,73.96191404,39.91,59
+29,Pressure Accessorie,Electronics,103.4328794,57.5,251
+102,Three Women,Apparel,411.0003644,181.63,325
+100,Sea Appliance,Home & Kitchen,295.9245531,152.25,350
+161,Between Fitnes,Sports & Outdoors,69.1788233,26.32,329
+60,Coach Furniture,Home & Kitchen,154.7891224,113.95,375
+219,Example Supplement,Beauty & Health,212.3521718,100.68,283
+177,Hour Camping,Sports & Outdoors,157.9203984,86.79,394
+200,White Fitnes,Sports & Outdoors,536.4790789,381.57,55
+207,Impact Haircare,Beauty & Health,518.3505358,193.04,9
+75,Wonder Decor,Home & Kitchen,296.4010967,192.98,38
+156,Occur Camping,Sports & Outdoors,366.2767714,276.55,266
+280,Start Fiction,Books & Media,127.7717479,43.74,336
+251,College Fiction,Books & Media,438.5662038,332.5,34
+268,Machine Media,Books & Media,24.40864115,11.06,214
+130,Fly Kid,Apparel,458.6484361,253.72,154
+275,Culture Children,Books & Media,84.89791709,41.15,221
+234,House Skincare,Beauty & Health,496.8041706,356.89,422
+271,Create Children,Books & Media,791.2298781,308.09,283
+180,Grow Team Sport,Sports & Outdoors,867.7334169,385.76,454
+56,Heavy Appliance,Home & Kitchen,184.5346293,83.65,120
+272,Pass Children,Books & Media,5.657648023,3.58,422
+20,Arm Accessorie,Electronics,545.4342393,335.04,182
+89,Prepare Cookware,Home & Kitchen,256.9762802,159.34,78
+217,Measure Skincare,Beauty & Health,486.4597418,238.38,90
+127,Research Footwear,Apparel,115.4229515,48.35,6
+222,Car Supplement,Beauty & Health,274.0224199,137.96,3
+143,Writer Women,Apparel,422.0365074,163.91,253
+186,Along Fitnes,Sports & Outdoors,286.6127164,213.7,364
+9,Right Laptop,Electronics,67.34849674,26.82,5
+108,Word Men,Apparel,386.5048031,142.17,49
+128,Pretty Kid,Apparel,702.3504557,247.87,296
+115,Quickly Footwear,Apparel,261.5945387,140.73,80
+209,Leg Skincare,Beauty & Health,816.3223287,323.49,140
+235,Training Personal Care,Beauty & Health,370.7166499,218.16,477
+290,Administration Children,Books & Media,913.9530302,374.06,97
+265,Create Non-Fiction,Books & Media,835.8181287,394.64,321
+187,Artist Team Sport,Sports & Outdoors,126.1904695,97.88,227
+131,Spring Kid,Apparel,792.9797956,323.06,128
+95,They Appliance,Home & Kitchen,735.5585469,355.85,154
+211,Everyone Skincare,Beauty & Health,930.3826516,390.53,235
+41,Rest Smartphone,Electronics,389.3389566,158.48,399
+181,Choice Team Sport,Sports & Outdoors,37.2778559,20.67,38
+44,Walk Camera,Electronics,6.958194713,4.3,196
+204,Artist Supplement,Beauty & Health,579.5108486,316.23,181
+91,Almost Decor,Home & Kitchen,366.3209259,186.57,268
+255,Activity Non-Fiction,Books & Media,254.3217637,157.52,198
+256,Baby Non-Fiction,Books & Media,528.6649475,197.5,114
+148,Answer Women,Apparel,305.3394245,118.69,269
+285,Foot Children,Books & Media,694.8886446,317.07,124
+247,Good Haircare,Beauty & Health,720.4388418,326.34,359
+31,Wide Laptop,Electronics,970.2493795,373.86,430
+226,Recognize Skincare,Beauty & Health,218.0682579,146.93,221
+165,Up Cycling,Sports & Outdoors,611.695561,375.16,271
+260,Form Media,Books & Media,620.0114628,308.31,185
+146,Difficult Women,Apparel,463.1309501,217.53,128
+53,Student Decor,Home & Kitchen,198.3746522,115.82,369
+179,Our Camping,Sports & Outdoors,487.1382294,175.67,50
+253,Happen Fiction,Books & Media,611.3149296,347.91,232
+64,Task Appliance,Home & Kitchen,29.66122079,12.14,159
+66,Wide Cookware,Home & Kitchen,455.47074,201.12,170
+178,Rich Cycling,Sports & Outdoors,567.6808338,213.76,74
+80,Success Furniture,Home & Kitchen,164.4073828,93.95,317
+159,Positive Camping,Sports & Outdoors,856.9355006,318.32,71
+46,Reflect Laptop,Electronics,395.9490443,205.91,415
+42,Cost Camera,Electronics,328.9554123,216.35,180
+117,White Men,Apparel,561.7868954,267.53,314
+196,Information Cycling,Sports & Outdoors,544.1892626,269.71,30
+105,Physical Footwear,Apparel,393.669437,188.14,4
+147,Later Women,Apparel,518.5255402,396.76,388
+126,Field Men,Apparel,245.6379187,89.98,178
+74,Serve Appliance,Home & Kitchen,171.7813076,104.21,434
+291,Since Non-Fiction,Books & Media,19.91295961,13.68,281
+223,Sense Supplement,Beauty & Health,58.86542646,32.82,492
+35,Wide Camera,Electronics,425.7704406,268.86,358
+249,Across Skincare,Beauty & Health,700.189768,293.31,129
+54,We Decor,Home & Kitchen,680.0610503,371.36,466
+158,Produce Cycling,Sports & Outdoors,280.5854828,119.58,331
+221,Response Haircare,Beauty & Health,738.5217014,279.27,292
+5,Yeah Smartphone,Electronics,524.4491334,180.1,161
+154,Attack Cycling,Sports & Outdoors,116.3723974,58.03,334
+286,Give Non-Fiction,Books & Media,47.44226212,20.54,157
+257,Minute Children,Books & Media,8.447087065,4.21,434
+174,Social Cycling,Sports & Outdoors,871.8397389,363.2,37
+193,Add Camping,Sports & Outdoors,361.5462871,219.39,106
+172,Half Team Sport,Sports & Outdoors,105.5451084,40.01,91
+297,Want Media,Books & Media,90.73013622,64.11,423
+144,Almost Women,Apparel,306.7918372,136.44,183
+67,Apply Furniture,Home & Kitchen,362.9422729,151.07,447
+76,Cover Furniture,Home & Kitchen,982.7733586,338.82,21
+274,Product Children,Books & Media,522.1918351,235.72,27
+77,What Furniture,Home & Kitchen,105.5021692,38.72,88
+292,Store Fiction,Books & Media,433.5011503,267.92,196
+269,Note Non-Fiction,Books & Media,609.6404696,359.81,404
+23,Cost Headphone,Electronics,231.5483636,174.8,39
+188,Involve Fitnes,Sports & Outdoors,540.8990538,321.55,129
+132,Set Men,Apparel,298.5290786,175.25,306
+37,Executive Laptop,Electronics,601.214991,285.91,100
+168,Wait Camping,Sports & Outdoors,672.1462586,325.57,140
+210,Me Haircare,Beauty & Health,185.6791824,78.49,234
+145,Unit Men,Apparel,61.25201776,42.96,435
+224,Voice Skincare,Beauty & Health,23.1087399,13.38,49
+205,Back Haircare,Beauty & Health,363.9341342,219.49,401
+276,Recently Non-Fiction,Books & Media,353.5896929,131.91,370
+79,Hand Furniture,Home & Kitchen,318.4662083,119.38,492
+182,Answer Fitnes,Sports & Outdoors,492.0578755,191.38,457
+92,Left Furniture,Home & Kitchen,152.0647821,67.35,449
+133,Actually Kid,Apparel,492.3708139,201.05,284
+81,Real Furniture,Home & Kitchen,816.5676179,349.11,401
+40,Because Laptop,Electronics,170.7461699,75.68,309
+135,Road Women,Apparel,562.8520296,338.26,106
+208,Series Skincare,Beauty & Health,258.1701289,138.05,61
+153,Feel Cycling,Sports & Outdoors,535.4187334,238.57,182
+190,Over Cycling,Sports & Outdoors,702.2435914,308.25,216
+18,Rest Camera,Electronics,36.71729099,20.03,423
+15,Sea Headphone,Electronics,535.3471062,192.64,50
+157,First Camping,Sports & Outdoors,697.4723825,278.88,452
+2,Maintain Laptop,Electronics,794.805649,351.48,16
+252,Property Non-Fiction,Books & Media,284.5381628,180.49,443
+22,Scientist Smartphone,Electronics,215.6565757,98.81,461
+225,Discover Skincare,Beauty & Health,960.5835774,348.19,129
+69,Front Decor,Home & Kitchen,280.4666181,163.83,363
+11,Change Smartphone,Electronics,218.1639876,129.85,46
+239,Increase Haircare,Beauty & Health,513.2767912,395.89,386
+258,Difference Fiction,Books & Media,623.0426171,300.08,413
+55,Others Cookware,Home & Kitchen,400.677997,222.82,207
+175,Either Fitnes,Sports & Outdoors,623.7110186,253.72,41
+284,Do Fiction,Books & Media,231.5713074,138.3,303
+299,Know Non-Fiction,Books & Media,760.0830796,274.72,85
+228,Over Skincare,Beauty & Health,163.4899034,94.91,467
+99,Level Decor,Home & Kitchen,488.0001471,337.25,213
+293,Almost Non-Fiction,Books & Media,718.9819433,295.78,305
+24,Concern Headphone,Electronics,731.2565639,282.68,55
+199,Yes Fitnes,Sports & Outdoors,53.31193254,33.26,62
+152,Soon Camping,Sports & Outdoors,894.9195914,359.13,160
+1,Black Camera,Electronics,440.6266121,224.24,270
+57,Try Cookware,Home & Kitchen,517.4992424,229.78,497
+246,Close Personal Care,Beauty & Health,586.1040412,237.52,339
+47,Central Camera,Electronics,520.2695278,252.36,348
+134,Democrat Kid,Apparel,565.7704621,321.26,408
+50,Wear Headphone,Electronics,247.643633,113.11,278
+220,Run Skincare,Beauty & Health,471.152263,343.89,207
+3,Start Accessorie,Electronics,1009.666084,367.95,91
+264,Include Non-Fiction,Books & Media,16.13297978,9.81,91
+26,Agent Laptop,Electronics,268.0334597,123.49,364
+87,Property Furniture,Home & Kitchen,554.9187803,315.4,454
+119,Reflect Kid,Apparel,529.6271338,265.26,268
+93,Fear Appliance,Home & Kitchen,98.58708896,56.95,398
+195,After Fitnes,Sports & Outdoors,130.5676399,54.56,340
+233,Say Haircare,Beauty & Health,85.11124673,30.29,106
+141,Happen Men,Apparel,248.8757206,135.51,203
+113,Represent Kid,Apparel,56.01481192,26.78,357
+78,Unit Cookware,Home & Kitchen,224.3683756,102.41,439
+84,Per Cookware,Home & Kitchen,44.5928366,29.75,439
+238,Able Haircare,Beauty & Health,195.3313822,70.24,35
+48,Court Camera,Electronics,229.2605353,156.59,186
+106,Oil Footwear,Apparel,148.5462139,54.77,473
+164,Great Team Sport,Sports & Outdoors,467.6689038,165.72,443
+283,Strategy Children,Books & Media,694.5366442,258.28,194
+52,Still Cookware,Home & Kitchen,12.74501558,6.91,248
+214,Safe Skincare,Beauty & Health,307.4321347,229.66,496
+261,Especially Fiction,Books & Media,430.3677909,235.83,54
+240,Military Supplement,Beauty & Health,559.5904549,231.95,223
+231,Food Personal Care,Beauty & Health,403.0149052,301.66,44
+34,Television Laptop,Electronics,402.1468959,208.52,335
+163,Ready Cycling,Sports & Outdoors,603.0760213,276.03,408
+114,History Kid,Apparel,23.52326971,12.58,220
+243,Son Personal Care,Beauty & Health,743.2310143,389.57,467
+104,Major Men,Apparel,960.3801244,360.5,498
+83,Rich Furniture,Home & Kitchen,247.6287634,96.79,422
+30,Hospital Laptop,Electronics,497.3163966,214.5,118
+244,Thus Supplement,Beauty & Health,263.595536,101.87,58
+139,About Men,Apparel,859.9126807,310.66,249
+197,Own Camping,Sports & Outdoors,552.9192534,292.48,74
+120,Society Kid,Apparel,151.6725413,60.15,220
+166,Power Fitnes,Sports & Outdoors,289.6389051,147.59,212
+149,Move Kid,Apparel,384.0998255,267.43,447
+289,Available Non-Fiction,Books & Media,656.2244441,370.15,28
+227,Daughter Supplement,Beauty & Health,195.6050644,129.37,301
+112,Performance Women,Apparel,10.9172281,7.39,378
+241,Low Personal Care,Beauty & Health,314.0200975,220.38,398
+28,Series Accessorie,Electronics,745.7388174,279.01,402
+192,Participant Camping,Sports & Outdoors,698.5602671,370.47,345
+198,Later Cycling,Sports & Outdoors,265.6721168,125.87,134
+250,Discover Haircare,Beauty & Health,8289.762318,112.79,245
+236,Down Haircare,Beauty & Health,57.25206354,35.56,218
+137,Particular Kid,Apparel,314.8617833,166.82,259
+25,Protect Headphone,Electronics,284.636652,149.7,132
+136,Watch Footwear,Apparel,963.6329177,362.35,458
+8,Plant Smartphone,Electronics,289.9942268,122.24,489
+7,Beyond Accessorie,Electronics,359.0951032,167.06,104
+138,By Kid,Apparel,55.88621139,35.21,457
+110,Section Footwear,Apparel,54.25467172,19.09,73
+288,Beyond Media,Books & Media,540.4669827,355.32,161
+9000,Small Prototype,Books & Media,38.48,34.07,16
+9001,Standard Prototype,Beauty & Health,97.52,140.67,50
+9002,Executive Prototype,Apparel,47.71,103.54,31
+9003,Task Prototype,Sports & Outdoors,121.02,94.13,30
+9004,Growth Prototype,Beauty & Health,75.01,68.96,8
+9005,Suddenly Prototype,Home & Kitchen,174.9,72.38,46
+9006,Individual Prototype,Apparel,288.34,131.09,11
+9007,Leader Prototype,Sports & Outdoors,107.98,61.73,24
+9008,Sign Prototype,Electronics,274.14,91.39,4
+9009,Trial Prototype,Electronics,141.54,132.01,49
+9010,Attention Prototype,Beauty & Health,157.72,14.75,35
+9011,Boy Prototype,Sports & Outdoors,38.5,35.74,33
