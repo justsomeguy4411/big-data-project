@@ -1,0 +1,63 @@
+{
+  "customers": {
+    "n_rows": 2500,
+    "n_cols": 8,
+    "missing_by_col": {
+      "city": 63,
+      "age": 139,
+      "gender": 115
+    },
+    "n_exact_dup_rows": 0,
+    "exact_duplicate_emails": 0
+  },
+  "products": {
+    "n_rows": 300,
+    "n_cols": 6,
+    "missing_by_col": {},
+    "n_exact_dup_rows": 0,
+    "unit_price_outlier_count": 3
+  },
+  "orders": {
+    "n_rows": 9000,
+    "n_cols": 5,
+    "missing_by_col": {},
+    "n_exact_dup_rows": 0,
+    "status_counts": {
+      "completed": 5101,
+      "cancelled": 1328,
+      "returned": 1327,
+      "pending": 1244
+    }
+  },
+  "order_items": {
+    "n_rows": 20362,
+    "n_cols": 6,
+    "missing_by_col": {},
+    "n_exact_dup_rows": 0,
+    "negative_qty_rows": 583,
+    "exact_dup_rows_excl_pk": 186
+  },
+  "reviews": {
+    "n_rows": 4000,
+    "n_cols": 6,
+    "missing_by_col": {
+      "review_text": 838
+    },
+    "n_exact_dup_rows": 0,
+    "rating_out_of_range": 41
+  },
+  "web_sessions": {
+    "n_rows": 12000,
+    "n_cols": 6,
+    "missing_by_col": {},
+    "n_exact_dup_rows": 0
+  },
+  "legacy_customers_raw": {
+    "n_rows": 1427,
+    "missing_email": 57
+  },
+  "catalog_raw": {
+    "n_rows": 267,
+    "skus_not_in_products": 12
+  }
+}

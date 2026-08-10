@@ -1,0 +1,60 @@
+{
+  "rfm_segment_summary": [
+    {
+      "segment": "Loyal Customers",
+      "n_customers": 707,
+      "avg_recency": 179.07,
+      "avg_frequency": 2.52,
+      "avg_monetary": 3327.93
+    },
+    {
+      "segment": "Hibernating/Lost",
+      "n_customers": 535,
+      "avg_recency": 988.07,
+      "avg_frequency": 0.45,
+      "avg_monetary": 280.6
+    },
+    {
+      "segment": "Champions",
+      "n_customers": 441,
+      "avg_recency": 78.68,
+      "avg_frequency": 3.77,
+      "avg_monetary": 6934.79
+    },
+    {
+      "segment": "Needs Attention",
+      "n_customers": 416,
+      "avg_recency": 496.25,
+      "avg_frequency": 1.32,
+      "avg_monetary": 2878.77
+    },
+    {
+      "segment": "At Risk (High Value)",
+      "n_customers": 210,
+      "avg_recency": 561.61,
+      "avg_frequency": 2.86,
+      "avg_monetary": 4192.84
+    },
+    {
+      "segment": "New/Promising",
+      "n_customers": 191,
+      "avg_recency": 99.77,
+      "avg_frequency": 1.07,
+      "avg_monetary": 1350.83
+    }
+  ],
+  "cltv_summary": {
+    "avg_gross_margin_rate": 0.4883,
+    "mean_predicted_cltv": 1916.85,
+    "median_predicted_cltv": 990.27,
+    "top_decile_cltv_threshold": 3535.39,
+    "cltv_by_segment": {
+      "Champions": 3257.53,
+      "At Risk (High Value)": 2734.09,
+      "Needs Attention": 1953.3,
+      "Loyal Customers": 1698.55,
+      "New/Promising": 575.71,
+      "Hibernating/Lost": 391.64
+    }
+  }
+}

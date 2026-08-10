@@ -1,0 +1,40 @@
+{
+  "n_historical_months": 34,
+  "historical_avg_monthly_revenue": 212712.43,
+  "linear_trend_slope_per_month": 7752.98,
+  "holt_in_sample_mae": 56990.39,
+  "holt_in_sample_rmse": 72524.81,
+  "linear_in_sample_mae": 42291.66,
+  "forecast_next_6_months": [
+    {
+      "month": "2024-12",
+      "holt_forecast": 334411.01,
+      "linear_trend_forecast": 348389.54
+    },
+    {
+      "month": "2025-01",
+      "holt_forecast": 338699.6,
+      "linear_trend_forecast": 356142.52
+    },
+    {
+      "month": "2025-02",
+      "holt_forecast": 342988.18,
+      "linear_trend_forecast": 363895.5
+    },
+    {
+      "month": "2025-03",
+      "holt_forecast": 347276.77,
+      "linear_trend_forecast": 371648.48
+    },
+    {
+      "month": "2025-04",
+      "holt_forecast": 351565.35,
+      "linear_trend_forecast": 379401.45
+    },
+    {
+      "month": "2025-05",
+      "holt_forecast": 355853.94,
+      "linear_trend_forecast": 387154.43
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "legacy_customers_reconciliation": {
+    "rows_raw": 1427,
+    "blank_rows_dropped": 1,
+    "junk_test_rows_dropped": 1,
+    "exact_duplicate_emails_dropped": 48,
+    "rows_after_cleaning": 1377
+  },
+  "catalog_reconciliation": {
+    "rows_raw": 267,
+    "n_supplier_only_skus": 12,
+    "overlapping_skus": 255,
+    "price_mismatches_on_overlap": 253,
+    "avg_abs_price_diff_on_overlap": 9.44
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "avg_retention_curve_by_month_offset": {
+    "0": 0.0698,
+    "1": 0.1099,
+    "2": 0.1275,
+    "3": 0.1196,
+    "4": 0.0977,
+    "5": 0.1036,
+    "6": 0.0963,
+    "7": 0.1054,
+    "8": 0.0885,
+    "9": 0.0887,
+    "10": 0.0974,
+    "11": 0.0882
+  },
+  "top_5_sku_pairs_by_lift": [
+    {
+      "product_a_name": "When Supplement",
+      "product_b_name": "Machine Media",
+      "support": 0.00045,
+      "confidence_a_to_b": 0.07407,
+      "lift": 10.475
+    },
+    {
+      "product_a_name": "Black Camera",
+      "product_b_name": "Coach Furniture",
+      "support": 0.00056,
+      "confidence_a_to_b": 0.07813,
+      "lift": 10.0872
+    },
+    {
+      "product_a_name": "Movement Headphone",
+      "product_b_name": "Ready Cycling",
+      "support": 0.00045,
+      "confidence_a_to_b": 0.06154,
+      "lift": 9.7901
+    },
+    {
+      "product_a_name": "Court Camera",
+      "product_b_name": "Owner Non-Fiction",
+      "support": 0.00045,
+      "confidence_a_to_b": 0.06897,
+      "lift": 9.4525
+    },
+    {
+      "product_a_name": "Level Decor",
+      "product_b_name": "Property Non-Fiction",
+      "support": 0.00045,
+      "confidence_a_to_b": 0.07018,
+      "lift": 9.0608
+    }
+  ],
+  "top_5_category_pairs_by_lift": [
+    {
+      "cat_a": "Apparel",
+      "cat_b": "Sports & Outdoors",
+      "pair_orders": 452,
+      "total_orders": 5043,
+      "support": 0.0896,
+      "lift": 0.9373
+    },
+    {
+      "cat_a": "Beauty & Health",
+      "cat_b": "Sports & Outdoors",
+      "pair_orders": 434,
+      "total_orders": 5043,
+      "support": 0.0861,
+      "lift": 0.8887
+    },
+    {
+      "cat_a": "Books & Media",
+      "cat_b": "Electronics",
+      "pair_orders": 437,
+      "total_orders": 5043,
+      "support": 0.0867,
+      "lift": 0.8686
+    },
+    {
+      "cat_a": "Electronics",
+      "cat_b": "Sports & Outdoors",
+      "pair_orders": 418,
+      "total_orders": 5043,
+      "support": 0.0829,
+      "lift": 0.8685
+    },
+    {
+      "cat_a": "Home & Kitchen",
+      "cat_b": "Sports & Outdoors",
+      "pair_orders": 429,
+      "total_orders": 5043,
+      "support": 0.0851,
+      "lift": 0.8633
+    }
+  ]
+}

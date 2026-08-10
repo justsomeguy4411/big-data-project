@@ -1,0 +1,78 @@
+{
+  "regression_monetary_value": {
+    "n_obs": 2060,
+    "r2": 0.0808,
+    "adj_r2": 0.0794,
+    "coefficients": {
+      "intercept": {
+        "beta": 9.2574,
+        "t_stat": 0.015
+      },
+      "age": {
+        "beta": -8.5863,
+        "t_stat": -0.934
+      },
+      "frequency": {
+        "beta": 1713.681,
+        "t_stat": 12.62
+      },
+      "recency_days": {
+        "beta": 0.2201,
+        "t_stat": 0.349
+      }
+    }
+  },
+  "price_elasticity_by_category": {
+    "Apparel": {
+      "elasticity": 0.0115,
+      "t_stat": 1.4,
+      "r2": 0.0011,
+      "n": 1862
+    },
+    "Beauty & Health": {
+      "elasticity": -0.005,
+      "t_stat": -0.646,
+      "r2": 0.0002,
+      "n": 1866
+    },
+    "Books & Media": {
+      "elasticity": 0.0051,
+      "t_stat": 0.846,
+      "r2": 0.0004,
+      "n": 1903
+    },
+    "Electronics": {
+      "elasticity": -0.0096,
+      "t_stat": -1.121,
+      "r2": 0.0007,
+      "n": 1832
+    },
+    "Home & Kitchen": {
+      "elasticity": -0.0121,
+      "t_stat": -1.32,
+      "r2": 0.0009,
+      "n": 1914
+    },
+    "Sports & Outdoors": {
+      "elasticity": -0.0003,
+      "t_stat": -0.032,
+      "r2": 0.0,
+      "n": 1815
+    },
+    "__overall__": {
+      "elasticity": -0.0002,
+      "t_stat": -0.062,
+      "r2": 0.0,
+      "n": 11192
+    }
+  },
+  "monte_carlo_revenue_simulation": {
+    "historical_monthly_mean": 212712.43,
+    "historical_monthly_std": 94177.14,
+    "n_simulations": 10000,
+    "simulated_next_12mo_revenue_mean": 2553111.74,
+    "simulated_next_12mo_revenue_p10": 2132708.39,
+    "simulated_next_12mo_revenue_p50": 2547399.71,
+    "simulated_next_12mo_revenue_p90": 2977445.29
+  }
+}
