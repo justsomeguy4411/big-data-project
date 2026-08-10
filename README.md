@@ -30,52 +30,19 @@ Update the path constants at the top of each script/notebook if your data lives 
 
 ```
 urbancart/
-├── src/                          Python pipeline (run in this order via main.py)
-│   ├── audit.py                  Data quality audit — 6 DB tables + 2 raw CSVs
-│   ├── clean.py                  Cleaning & reconciliation of the legacy CSVs
-│   ├── sql_analysis.py           Cohort retention + market basket analysis (SQL)
-│   ├── rfm_cltv.py               RFM segmentation + CLTV modeling
-│   ├── regression_elasticity.py  OLS regression, price elasticity, Monte Carlo
-│   ├── recommend.py              Item-based collaborative filtering recommender
-│   ├── forecast.py               Holt's linear smoothing + OLS trend forecasting
-│   ├── main.py                   Orchestrator — runs all seven stages in order
-│   ├── build_report.js           Generates outputs/UrbanCart_Analytics_Report.docx
-│   └── build_deck.js             Generates outputs/UrbanCart_Summary_Deck.pptx
-│
-├── notebooks/                    Same pipeline as interactive Jupyter notebooks
-│   ├── 00_run_full_pipeline.ipynb    Index — runs all stages, start here
-│   ├── 01_data_quality_audit.ipynb
-│   ├── 02_cleaning_and_reconciliation.ipynb
-│   ├── 03_cohort_and_basket_analysis.ipynb
-│   ├── 04_rfm_segmentation_and_cltv.ipynb
-│   ├── 05_regression_elasticity_montecarlo.ipynb
-│   ├── 06_recommendation_engine.ipynb
-│   └── 07_revenue_forecasting.ipynb
-│
-├── cleaned_data/                 Cleaned & reconciled datasets (pipeline output)
-│   ├── legacy_customers_cleaned.csv
-│   ├── product_catalog_cleaned.csv
-│   ├── catalog_vs_db_price_comparison.csv
-│   ├── rfm_segments.csv
-│   ├── cltv_predictions.csv
-│   └── product_similar_items.csv
-│
-└── outputs/                      Analysis results + final deliverables
-    ├── UrbanCart_Analytics_Report.docx   Full written report
-    ├── UrbanCart_Summary_Deck.pptx       11-slide executive summary
-    ├── audit_report.json
-    ├── cleaning_report.json
-    ├── sql_analysis_summary.json
-    ├── cohort_retention_matrix.csv
-    ├── market_basket_top_pairs.csv
-    ├── category_affinity.csv
-    ├── rfm_cltv_summary.json
-    ├── rfm_segment_summary.csv
-    ├── regression_elasticity_montecarlo.json
-    ├── historical_monthly_revenue.csv
-    ├── recommendation_engine_summary.json
-    ├── forecast_summary.json
-    └── revenue_forecast_next_6mo.csv
+├── data/
+│   ├── raw/
+│   │   ├── ecommerce.db
+│   │   ├── legacy_customers_export.csv
+│   │   └── product_catalog_2024.csv
+│   └── processed/
+├── src/
+├── notebooks/
+├── outputs/
+├── queries.sql
+├── report.pdf
+├── executive_summary.pdf
+└── README.md
 ```
 
 ## Data sources
@@ -113,3 +80,12 @@ every figure here is computed independently from the raw data.
 - **What the data doesn't support**: price elasticity, market-basket lift, and the age/recency terms in the spend regression all come back statistically indistinguishable from noise — flagged rather than overstated.
 
 Full detail, tables, and charts are in `outputs/UrbanCart_Analytics_Report.docx` and `outputs/UrbanCart_Summary_Deck.pptx`.
+
+##Member contributed:
+## Team Contributions
+
+[Member 1] — Eng Kosal
+[Member 2] —  Lang Senglong
+[Member 3] — Vutha Sokban
+[Member 4] — Cheok Kimleng
+[Member 5] — Choeun Seyha
