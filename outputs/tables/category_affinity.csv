@@ -1,0 +1,16 @@
+cat_a,cat_b,pair_orders,total_orders,support,lift
+Apparel,Sports & Outdoors,452,5043,0.0896,0.9373
+Beauty & Health,Sports & Outdoors,434,5043,0.0861,0.8887
+Books & Media,Electronics,437,5043,0.0867,0.8686
+Electronics,Sports & Outdoors,418,5043,0.0829,0.8685
+Home & Kitchen,Sports & Outdoors,429,5043,0.0851,0.8633
+Books & Media,Sports & Outdoors,426,5043,0.0845,0.8621
+Beauty & Health,Books & Media,440,5043,0.0872,0.8619
+Beauty & Health,Home & Kitchen,434,5043,0.0861,0.8455
+Books & Media,Home & Kitchen,437,5043,0.0867,0.8413
+Apparel,Books & Media,423,5043,0.0839,0.8392
+Electronics,Home & Kitchen,424,5043,0.0841,0.8381
+Beauty & Health,Electronics,408,5043,0.0809,0.8206
+Apparel,Beauty & Health,405,5043,0.0803,0.813
+Apparel,Home & Kitchen,412,5043,0.0817,0.8128
+Apparel,Electronics,398,5043,0.0789,0.8107
